@@ -1,6 +1,6 @@
 # Transição Energética Brasileira — Análise de Dados
 
-> *Vi uma notícia dizendo que os carros elétricos estavam explodindo no Brasil. Em vez de só compartilhar, resolvi verificar nos dados — 3 fontes oficiais, 4 milhões de registros e 5 notebooks depois, aqui está o que encontrei.*
+> *Vi uma notícia dizendo que os carros elétricos estavam explodindo no Brasil. Em vez de só compartilhar, resolvi verificar nos dados 3 fontes oficiais, 4 milhões de registros e 5 notebooks depois:*
 
 
 
@@ -8,7 +8,7 @@
 
 ## Pergunta central
 
-**O Brasil está realmente em transição energética — ou é só narrativa?**
+**O Brasil está realmente em transição energética ou é só narrativa?**
 
 Para responder, cruzei três séries históricas de dados públicos oficiais:
 - Crescimento da frota de veículos elétricos (SENATRAN)
@@ -25,7 +25,7 @@ Para responder, cruzei três séries históricas de dados públicos oficiais:
 | Energia solar (GD) | 5,3 GW | 44,8 GW | **+743%** |
 | Vendas de combustíveis | 11,2 M m³/mês | 14,0 M m³/mês | **+25%** |
 
-**Insight não óbvio:** A capacidade solar instalada já gera energia suficiente para cobrir **4.695x** a demanda estimada de toda a frota elétrica atual. O gargalo da transição não é energético — é o preço dos veículos e a infraestrutura de recarga.
+**Insight não óbvio:** A capacidade solar instalada já gera energia suficiente para cobrir **4.695x** a demanda estimada de toda a frota elétrica atual. O gargalo da transição não é energético é o preço dos veículos e a infraestrutura de recarga.
 
 **Previsões para 2030 (Prophet):**
 - Frota elétrica: ~2,4 milhões de veículos (+193%)
@@ -114,7 +114,7 @@ Execute os notebooks de `01` a `05` em sequência. Os dados brutos serão baixad
 
 ### Escalabilidade
 
-A arquitetura suporta atualização automática mensal — basta reexecutar os notebooks de coleta. O pipeline detecta novos arquivos publicados pelo governo automaticamente via web scraping.
+A arquitetura suporta atualização automática mensal basta reexecutar os notebooks de coleta. O pipeline detecta novos arquivos publicados pelo governo automaticamente via web scraping.
 
 ---
 
