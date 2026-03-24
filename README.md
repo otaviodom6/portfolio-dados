@@ -1,7 +1,7 @@
 # Transição Energética Brasileira — Análise de Dados
 
-> *Vi uma notícia dizendo que os carros elétricos estavam explodindo no Brasil. Em vez de só compartilhar, resolvi verificar nos dados 3 fontes oficiais, 4 milhões de registros e 5 notebooks depois:*
-
+> *Vi um post no X mostrando um carro elétrico sendo carregado em minutos. Me surgiu uma dúvida: o Brasil consegue gerar energia suficiente para trocar toda a frota por elétricos?
+Fui buscar a resposta nos dados. 3 fontes oficiais, 4 milhões de registros e 5 notebooks depois:*
 
 
 ---
