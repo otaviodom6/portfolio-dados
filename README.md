@@ -1,6 +1,6 @@
 # Transição Energética Brasileira — Análise de Dados
 
-> *"Vi uma notícia dizendo que os carros elétricos estavam explodindo no Brasil. Em vez de só compartilhar, resolvi verificar nos dados — 3 fontes oficiais, 4 milhões de registros e 5 notebooks depois, aqui está o que encontrei."*
+> *Vi uma notícia dizendo que os carros elétricos estavam explodindo no Brasil. Em vez de só compartilhar, resolvi verificar nos dados — 3 fontes oficiais, 4 milhões de registros e 5 notebooks depois, aqui está o que encontrei.*
 
 
 
