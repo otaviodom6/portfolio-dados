@@ -3,6 +3,13 @@
 > *Vi um post no X mostrando um carro elétrico sendo carregado em minutos. Me surgiu uma dúvida: o Brasil consegue gerar energia suficiente para trocar toda a frota por elétricos?
 Fui buscar a resposta nos dados. 3 fontes oficiais, 4 milhões de registros e 5 notebooks depois:*
 
+---
+
+Por que esse projeto importa?
+
+A eletrificação da frota cresce rapidamente no Brasil, mas ainda há incerteza sobre a capacidade do sistema energético de acompanhar essa transição.
+
+Este projeto cruza dados de mobilidade, geração de energia e consumo de combustíveis para avaliar se a transição energética brasileira é estrutural ou ainda incipiente.
 
 ---
 
@@ -25,7 +32,13 @@ Para responder, cruzei três séries históricas de dados públicos oficiais:
 | Energia solar (GD) | 5,3 GW | 44,8 GW | **+743%** |
 | Vendas de combustíveis | 11,2 M m³/mês | 14,0 M m³/mês | **+25%** |
 
-**Insight não óbvio:** A capacidade solar instalada já gera energia suficiente para cobrir **4.695x** a demanda estimada de toda a frota elétrica atual. O gargalo da transição não é energético é o preço dos veículos e a infraestrutura de recarga.
+*A análise sugere que, em termos agregados de capacidade instalada, a expansão da geração solar não é hoje o principal limitador da eletrificação da frota.
+
+Os gargalos mais prováveis estão em:
+
+-Custo de aquisição dos veículos elétricos
+-Infraestrutura de recarga
+-Distribuição regional da energia.
 
 **Previsões para 2030 (Prophet):**
 - Frota elétrica: ~2,4 milhões de veículos (+193%)
