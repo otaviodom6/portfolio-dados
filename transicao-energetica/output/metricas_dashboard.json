@@ -1,0 +1,22 @@
+{
+  "ev": {
+    "inicio": 55631,
+    "fim": 836151,
+    "crescimento_pct": 1403.0
+  },
+  "solar": {
+    "inicio_gw": 5.3,
+    "fim_gw": 44.8,
+    "crescimento_pct": 742.9
+  },
+  "combustivel": {
+    "inicio_m3": 11165007.0,
+    "fim_m3": 13961276.0,
+    "variacao_pct": 25.0
+  },
+  "balanco": {
+    "demanda_ev_gwh": 1505.0,
+    "geracao_solar_gwh": 70658.0,
+    "cobertura_x": 47.0
+  }
+}

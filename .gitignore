@@ -1,0 +1,14 @@
+﻿# Dados brutos — arquivos grandes
+transicao-energetica/data/raw/
+
+# Imagens de output
+transicao-energetica/output/*.png
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Credenciais Google
+*.json
+!transicao-energetica/output/metricas_dashboard.json
